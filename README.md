@@ -4,6 +4,7 @@
 **Focus:** SOC 2 · ISO 27001 · Cloud Compliance · DPDPA 2023  
 **Background:** 3rd Year Cybersecurity Engineering Student  
 **Goal:** GRC / Compliance Analyst
+
 **Started:** 31 March 2026  
 
 ## What's Inside
