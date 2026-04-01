@@ -1,7 +1,7 @@
 # Asset Inventory — CloudPay India Pvt Ltd
-**Framework:** NIST CSF 2.0 — Identify Function
-**Date:** 31 March 2026
-**Prepared by:** [Your Name]
+**Framework:** NIST CSF 2.0 — Identify Function  
+**Date:** 31 March 2026  
+**Prepared by:** Karthikeyan  
 
 ## Why This Matters
 Asset inventory is the foundation of every compliance 
